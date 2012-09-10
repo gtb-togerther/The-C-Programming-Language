@@ -1,0 +1,3 @@
+bin_PROGRAMS=ch1_helloworld
+ch1_helloworld_SOURCES=ch1_helloworld.c
+

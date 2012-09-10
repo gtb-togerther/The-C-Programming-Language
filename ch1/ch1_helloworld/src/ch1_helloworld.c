@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : ch1-helloworld.c
+ Name        : ch1_helloworld.c
  Author      : Dijack Dong
  Version     :
  Copyright   : Your copyright notice

@@ -1,7 +1,7 @@
 dnl Process this file with autoconf to produce a configure script.
 
 AC_PREREQ(2.59)
-AC_INIT(ch1-helloworld, 1.0)
+AC_INIT(ch1_helloworld, 1.0)
 
 
 AC_CANONICAL_SYSTEM
